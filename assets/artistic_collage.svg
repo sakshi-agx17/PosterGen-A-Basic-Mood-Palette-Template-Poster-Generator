@@ -1,0 +1,7 @@
+<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="{{bg_color}}"/>
+  <polygon points="100,100 500,100 300,400" fill="{{accent1}}"/>
+  <polygon points="100,700 500,700 300,400" fill="{{accent2}}"/>
+  <text x="300" y="420" text-anchor="middle" font-size="48" font-family="Arial" fill="{{headline_color}}">{{headline}}</text>
+  <text x="300" y="750" text-anchor="middle" font-size="32" font-family="Arial" fill="{{cta_color}}">{{cta}}</text>
+</svg>

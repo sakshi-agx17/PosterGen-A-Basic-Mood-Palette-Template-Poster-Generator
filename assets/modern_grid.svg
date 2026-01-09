@@ -1,0 +1,8 @@
+<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="{{bg_color}}"/>
+  <rect x="50" y="100" width="200" height="200" fill="{{accent1}}"/>
+  <rect x="350" y="100" width="200" height="200" fill="{{accent2}}"/>
+  <rect x="50" y="400" width="500" height="100" fill="{{accent3}}"/>
+  <text x="300" y="470" text-anchor="middle" font-size="40" font-family="Arial" fill="{{headline_color}}">{{headline}}</text>
+  <text x="300" y="700" text-anchor="middle" font-size="32" font-family="Arial" fill="{{cta_color}}">{{cta}}</text>
+</svg>

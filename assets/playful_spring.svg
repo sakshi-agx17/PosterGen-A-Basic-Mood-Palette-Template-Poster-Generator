@@ -1,0 +1,9 @@
+<svg width="600" height="800" xmlns="http://www.w3.org/2000/svg">
+  <rect width="100%" height="100%" fill="{{bg_color}}"/>
+  <ellipse cx="150" cy="200" rx="120" ry="60" fill="{{accent1}}"/>
+  <ellipse cx="450" cy="600" rx="100" ry="50" fill="{{accent2}}"/>
+  <text x="50%" y="120" text-anchor="middle" font-size="48" font-family="Comic Sans MS, cursive" fill="{{headline_color}}">{{headline}}</text>
+  <circle cx="500" cy="100" r="30" fill="{{accent3}}"/>
+  <rect x="200" y="700" width="200" height="60" rx="20" fill="{{cta_bg}}"/>
+  <text x="300" y="740" text-anchor="middle" font-size="32" font-family="Arial" fill="{{cta_color}}">{{cta}}</text>
+</svg>
